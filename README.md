@@ -1,5 +1,7 @@
 # [Sega Saturn](https://en.wikipedia.org/wiki/Sega_Saturn) for MiSTer
 
+> **Note:** This is a fork that supports **CRT offset** — allowing you to adjust the horizontal and vertical position of the image on a CRT TV directly from the OSD.
+
 ## Hardware Requirements
 
 - 128 MB SDRAM Module (Primary)
